@@ -1,6 +1,6 @@
 # Station Monitor
 
-[![CI](https://github.com/YOUR-USERNAME/station-monitor/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR-USERNAME/station-monitor/actions/workflows/ci.yml)
+[![CI](https://github.com/Sruthi-Krishna/station-monitor/actions/workflows/ci.yml/badge.svg)](https://github.com/Sruthi-Krishna/station-monitor/actions/workflows/ci.yml)
 
 A small monitoring dashboard for a set of **simulated** instruments, built with Next.js, TypeScript and GraphQL. It is a demonstration project: the data is synthetic and it is not connected to any real system.
 
