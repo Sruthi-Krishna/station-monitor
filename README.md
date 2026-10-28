@@ -6,7 +6,7 @@ A small monitoring dashboard for a set of **simulated** instruments, built with 
 
 It shows the kind of interface used to watch equipment: live readings, alarm states, filtering, and a trend for any instrument you select.
 
-<!-- Add a screenshot here: docs/screenshot.png -->
+![Station Monitor dashboard](docs/screenshot.png)
 
 ## Features
 
